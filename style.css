@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("/img/Path.png");
+    background-size: 68%;
+    background-position-x: right;
+    background-repeat:no-repeat;
+}
+h2{
+    color: #37447E;
+    margin: 0;
+
+}
+.top-bar{
+    font-family: 'Roboto', sans-serif;
+    width: 80%;
+    justify-content: space-between;
+    display: flex;
+    margin: auto;
+    margin-top: 25px;
+    
+}
+.top-nav a {
+    text-decoration: none;
+    padding: 20px;
+    margin: 20px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #505F98;
+}
+.center-div{
+    margin-right: 150px;
+    font-weight: 700;
+    font-size: 26px;
+}
+.right-div button {
+    width: 160px;
+    Height:26px;
+    background: #111B47;
+    border-radius: 2px;
+    color: white;
+}
